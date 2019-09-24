@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.axis:org.apache.axis:1.4.0.v200706191647">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis/org.apache.axis/1.4.0.v200706191647/org.apache.axis-1.4.0.v200706191647.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis/org.apache.axis/1.4.0.v200706191647/org.apache.axis-1.4.0.v200706191647-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/axis/org.apache.axis/1.4.0.v200706191647/org.apache.axis-1.4.0.v200706191647-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
