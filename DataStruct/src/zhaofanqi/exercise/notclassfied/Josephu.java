@@ -1,4 +1,4 @@
-package zhaofanqi.exercise.base;
+package zhaofanqi.exercise.notclassfied;
 
 /**
  * 模拟实现约瑟夫问题：

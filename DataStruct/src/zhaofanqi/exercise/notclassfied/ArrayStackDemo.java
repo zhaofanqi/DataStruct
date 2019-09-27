@@ -1,4 +1,4 @@
-package zhaofanqi.exercise.base;
+package zhaofanqi.exercise.notclassfied;
 
 
 public class ArrayStackDemo {
